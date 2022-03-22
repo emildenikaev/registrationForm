@@ -1,0 +1,17 @@
+form {
+  max-width: 600px;
+  margin: 0 auto;
+  width: 95%;
+  .has-danger{
+    border: 1px solid var(--danger-color);
+  }
+  .has-success{
+    border: 1px solid var(--success-color);
+  }
+  .form {
+    display: flex;
+    width: 95%;
+    margin: 5px;
+  }
+}
+
