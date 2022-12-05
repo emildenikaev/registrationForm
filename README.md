@@ -1,4 +1,8 @@
-Very easy registration form (module)
+Very easy registration form (module) (angular)
+
+git clone
+npm install
+ng serve
 
 # RegistrationForm
 
